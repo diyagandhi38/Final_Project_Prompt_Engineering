@@ -1,17 +1,17 @@
 # Final_Project_Prompt_Engineering-
-DocuGenAI: Technical Documentation Assistant
+## DocuGenAI: Technical Documentation Assistant
 
-Team Members
+# Team Members
 
 Aseem Deshmukh (deshmukh.as@northeastern.edu)
 Diya Gandhi (gandhi.di@northeastern.edu)
-Overview
+## Overview
 
 DocuGenAI is an AI-powered assistant that automates the creation, management, and visualization of technical documents. It combines Prompt Engineering, Retrieval-Augmented Generation (RAG), Multimodal Integration, and Synthetic Data Generation to enhance documentation workflows.
 
 Built with an intuitive Streamlit UI, integrated with OpenAI GPT-4 Turbo models and ChromaDB vector store, DocuGenAI delivers a modern, scalable, and efficient solution for technical writers, developers, and teams.
 
-Key Features
+## Key Features
 
 Documentation Generator: Create API documentation, code explanations, troubleshooting guides, and code generation with AI.
 Knowledge Base Management:
@@ -48,7 +48,7 @@ The value of Synthetic Data for robust testing.
 Future enhancements include multi-model integration, semantic search, and user authentication.
 How to Run the Project
 
-Prerequisites
+# Prerequisites
 
 Python 3.9+
 Install required libraries:
@@ -57,12 +57,12 @@ Create a .env file in the project root with the following:
 OPENAI_API_KEY=your-openai-api-key
 Running the App
 
-Clone the repository:
+# Clone the repository:
 git clone https://github.com/yourusername/docugenai.git
 cd docugenai
-Install dependencies:
+# Install dependencies:
 pip install -r requirements.txt
-Run the Streamlit app:
+# Run the Streamlit app:
 streamlit run Document.py
 Open the local Streamlit URL in your browser (typically http://localhost:8501).
 Optional
@@ -73,7 +73,7 @@ License
 
 This project is open-source and available under the MIT License.
 
-Acknowledgments
+# Acknowledgments
 
 OpenAI for GPT-4 Turbo API.
 ChromaDB for vector storage and retrieval.
