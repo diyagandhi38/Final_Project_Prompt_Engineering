@@ -84,7 +84,7 @@ License
 This project is open-source and available under the MIT License.
 # Web Page for the project
 
-https://kzmgp1isgeh1cxr4demu.lite.vusercontent.net/#features
+https://v0-docu-gen-ai-showcase.vercel.app/
 
 
 # Acknowledgments
