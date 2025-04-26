@@ -52,18 +52,28 @@ How to Run the Project
 
 Python 3.9+
 Install required libraries:
+
 pip install -r requirements.txt
+
 Create a .env file in the project root with the following:
+
 OPENAI_API_KEY=your-openai-api-key
+
 Running the App
 
 # Clone the repository:
+
 git clone https://github.com/yourusername/docugenai.git
+
 cd docugenai
 # Install dependencies:
+
 pip install -r requirements.txt
+
 # Run the Streamlit app:
+
 streamlit run Document.py
+
 Open the local Streamlit URL in your browser (typically http://localhost:8501).
 Optional
 
